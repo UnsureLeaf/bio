@@ -1,1 +1,30 @@
+body {
+	background-color: #bfa3ff;
+}
+.container {
+	text-align: center;
+	margin-top: 2%;
+	color: white;
+}
 
+.outer {
+	padding: 2%;
+}
+
+img {
+	width: 97%;
+	height: auto;
+}
+.title-wrap {
+	background-color: #eaa8ff;
+}
+.inner {
+	background-color: #eaa8ff;
+	margin: 1%;
+	line-height: 1.49;
+}
+.middle {
+	background-color: #eaa8ff;
+	margin: 0%;
+	padding: 0%;
+}
